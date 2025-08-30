@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BewinWilsonMathews
-- 👀 I’m interested in ... Coding and Mathematics
-- 🌱 I’m currently learning ... JavaScript
-- 📫 How to reach me ... Through Discord ... Bewin#1006
+- 🌱 Proficient in ... JavaScript, HTML, CSS, Python, ReactNative
+- 📫 How to reach me ... bewin_wm (instagram)
 
 <!---
 BewinWilsonMathews/BewinWilsonMathews is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
